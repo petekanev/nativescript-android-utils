@@ -1,6 +1,6 @@
 {
   "name": "nativescript-android-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of certain Java/Android classes that help the NativeScript developer when dealing with Android-specific implementations.",
   "main": "index",
   "typings": "index.d.ts",
