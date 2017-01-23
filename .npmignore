@@ -6,3 +6,4 @@ screenshots/
 *.map
 *.ts
 !*.d.ts
+lib/
